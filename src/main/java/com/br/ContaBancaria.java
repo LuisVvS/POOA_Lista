@@ -3,7 +3,7 @@ package com.br;
 public class ContaBancaria {
     private double saldo;
 
-    public ContaBancaria(double saldo){
+    public ContaBancaria(double saldo) {
         this.saldo = saldo;
     }
 
