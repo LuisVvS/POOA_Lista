@@ -1,4 +1,4 @@
-package com.br;
+package com.br.Encapsulamento;
 
 public class ContaBancaria {
     private double saldo;

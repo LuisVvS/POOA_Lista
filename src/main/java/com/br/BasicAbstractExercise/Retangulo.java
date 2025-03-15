@@ -1,4 +1,4 @@
-package com.br;
+package com.br.BasicAbstractExercise;
 
 public class Retangulo extends Forma {
     public double altura;

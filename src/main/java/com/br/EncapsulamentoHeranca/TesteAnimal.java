@@ -1,4 +1,4 @@
-package com.br;
+package com.br.EncapsulamentoHeranca;
 
 class TesteAnimal {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.br;
+package com.br.BasicAbstractExercise;
 
 class TesteFormas {
     public static void main(String[] args) {

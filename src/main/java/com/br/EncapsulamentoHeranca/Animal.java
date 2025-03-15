@@ -1,4 +1,4 @@
-package com.br;
+package com.br.EncapsulamentoHeranca;
 
 public class Animal {
     protected String nome;
