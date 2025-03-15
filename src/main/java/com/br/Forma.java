@@ -2,7 +2,6 @@ package com.br;
 
 abstract class Forma {
 
-    public void calcularArea() {
-    }
+    public abstract double calcularArea();
 
 }
