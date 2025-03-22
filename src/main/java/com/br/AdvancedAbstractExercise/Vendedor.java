@@ -8,7 +8,7 @@ public class Vendedor extends Funcionario {
 
     @Override
     public double calcularBonus() {
-        return (10 / 100) * this.salario;
+        return (10.0 / 100) * this.salario;
     }
 
 }

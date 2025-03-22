@@ -12,5 +12,9 @@ public abstract class Funcionario {
     public double calcularSalarioTotal(){
         return this.salario + calcularBonus();
     }
+
+    public double mostra(){
+        return this.salario;
+    }
     
 }
